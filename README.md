@@ -12,8 +12,8 @@ This Flutter project demonstrates the use of intermediate-level widgets like `Li
 - 🗂 **Tab Navigation**  
   Tab-based layout with three tabs: `Latest News`, `Trending`, and `Profile`.
 
-- 🔄 **Bottom Navigation**  
-  Switch between Product List and Tabs using `NavigationBar`.
+- 🔄 **Drawer Navigation**  
+  Switch between Product List and Tabs using `Drawer`.
 
 # Project Images
 
